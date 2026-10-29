@@ -1,0 +1,22 @@
+Default interest rate: 4%
+
+--- Initial balances ---
+Aarav      | Balance: Rs. 10000.00
+Diya       | Balance: Rs. 25000.00
+Kabir      | Balance: Rs. 50000.00
+
+--- Applying interest at default rate ---
+Aarav      | Balance: Rs. 10400.00
+Diya       | Balance: Rs. 26000.00
+Kabir      | Balance: Rs. 52000.00
+
+Interest rate updated to 6.50% for all accounts
+
+--- Applying interest at new rate ---
+Aarav      | Balance: Rs. 11076.00
+Diya       | Balance: Rs. 27690.00
+Kabir      | Balance: Rs. 55380.00
+
+--- Trying an invalid rate ---
+Invalid interest rate. Rate not changed.
+Current rate is still 6.50%
