@@ -1,0 +1,11 @@
+# Compiled binaries and objects
+*.exe
+*.out
+*.o
+order
+bank
+
+# Secrets - never commit these
+.env
+*.key
+*.pem
