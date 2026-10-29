@@ -1,0 +1,9 @@
+Orders before placing any: 0
+
+Order #1 | Item: Laptop | Amount: Rs. 55000
+Order #2 | Item: Headphones | Amount: Rs. 1999.5
+Order #3 | Item: Keyboard | Amount: Rs. 1200
+
+Total orders placed so far: 3
+Order #4 | Item: Mouse | Amount: Rs. 599
+Total orders placed (after o4): 4
